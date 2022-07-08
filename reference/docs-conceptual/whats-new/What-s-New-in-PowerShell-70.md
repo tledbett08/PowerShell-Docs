@@ -82,7 +82,7 @@ The PowerShell 7 installer package upgrades previous versions of PowerShell 6.x:
 
 ## Improved backwards compatibility with Windows PowerShell
 
-PowerShell 7.0 marks a move a to .NET Core 3.1, enabling significantly more backwards compatibility
+PowerShell 7.0 marks a move to .NET Core 3.1, enabling significantly more backwards compatibility
 with existing Windows PowerShell modules. This includes many modules on Windows that require GUI
 functionality like `Out-GridView` and `Show-Command`, as well as many role management modules that
 ship as part of Windows.
